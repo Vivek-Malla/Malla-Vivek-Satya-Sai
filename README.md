@@ -42,7 +42,7 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/VivekMallatwt"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/VivekMallatwt" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-malla&show_icons=true&locale=en&layout=compact" alt="vivek-malla" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-malla&show_icons=true&locale=en" alt="vivek-malla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-malla&" alt="vivek-malla" /></p>

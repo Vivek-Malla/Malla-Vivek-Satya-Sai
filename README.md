@@ -1,3 +1,4 @@
+<img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif" width="1000px" height="300px">
 <h1 align="center">Hi 👋, I'm Vivek Malla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/vivekmallatwt" target="blank"><img src="https://img.shields.io/twitter/follow/vivekmallatwt?logo=twitter&style=for-the-badge" alt="vivekmallatwt" /></a> </p>
 
+<iframe src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" align ="right" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 - 🔭 I’m currently working as [Project Intern at Rovosis Pvt Ltd](https://rovosis.com/)
 
 - 🌱 I’m currently learning **Full Stack Web development and DSA**

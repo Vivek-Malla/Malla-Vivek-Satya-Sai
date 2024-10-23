@@ -8,7 +8,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working as [Project Intern at Rovosis Pvt Ltd](https://rovosis.com/)
+- I am currently pursuing my master in Pace University
+
+- 🔭 I used to work as [Project Intern at Vugha Technologies Pvt Ltd](https://vugha.com/)
 
 - 🌱 I’m currently learning **Full Stack Web development and DSA**
 
